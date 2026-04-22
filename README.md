@@ -10,7 +10,7 @@ Mecánicas:
 - Trading
 
 Controles:
-- Teclado: WASD para moverse, espacio para saltar, click derecho para atacar, click izquierdo para apuntar, E para interactuar, C para cambiar de camara en primera y tercera persona.
+- Teclado: WASD para moverse, espacio para saltar, click izquierdo para atacar, click derecho para apuntar, E para interactuar, C para cambiar de camara en primera y tercera persona.
 - Gamepad: Joysticks para moverse, B para saltar, X para atacar, R2 para apuntar, Y para interactuar, L2 para cambiar de camara entre primera y tercera persona.
 
 
