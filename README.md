@@ -18,6 +18,6 @@ Controles:
 
 Objetivo de rendimiento: 60FPS (hardware)
 
-Métricas que van a reportar: FPS, load time, build size, resolución de texturas.
+[Video Promocional](https://www.youtube.com/watch?v=e6VOiu4Zzv8)
 
 
