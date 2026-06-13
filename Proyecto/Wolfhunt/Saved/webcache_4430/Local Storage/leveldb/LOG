@@ -1,2 +1,5 @@
 2026/05/01-16:52:25.947 6c74 Creating DB C:/Users/stacy/Documents/LMAD/7mo/Optimizacion de videojuegos/Wolfhunt/Good things/Wolfhunters/Proyecto/Wolfhunt/Saved/webcache_4430\Local Storage\leveldb since it was missing.
 2026/05/01-16:52:25.962 6c74 Reusing MANIFEST C:/Users/stacy/Documents/LMAD/7mo/Optimizacion de videojuegos/Wolfhunt/Good things/Wolfhunters/Proyecto/Wolfhunt/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/05/01-16:57:12.322 8db4 Level-0 table #5: started
+2026/05/01-16:57:12.332 8db4 Level-0 table #5: 27274 bytes OK
+2026/05/01-16:57:12.335 8db4 Delete type=0 #3
